@@ -4,7 +4,7 @@ import { VscLaw } from 'react-icons/vsc'
 
 const Footer = () => {
     return (
-        <footer aria-label="Site Footer" class="bg-black dark:bg-amber-200">
+        <footer aria-label="Site Footer" class="bg-black">
             <div id='Footer'
                 class="max-w-screen-xl px-4 py-40 mx-auto space-y-8 sm:px-6 lg:space-y-16 lg:px-8"
             >
